@@ -15,6 +15,6 @@ A passionate Mobile App Developer 📱 having an experience of building Flutter 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raju8000&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raju8000&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=raju8000&icon=6&color=11)]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
